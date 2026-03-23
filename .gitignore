@@ -27,3 +27,20 @@ DELFT_NEW/**/*.gif
 DELFT_NEW/*/*_allruns_4d.gz
 DELFT_NEW/*_dysco_output/
 DELFT_NEW/**/*.npy
+
+# GUI media (optional)
+Python/GUI/*.png
+Python/GUI/*.jpg
+Python/GUI/*.jpeg
+Python/GUI/*.gif
+Python/GUI/*.mp4
+Python/GUI/*.mp3
+
+# temp + test data
+Python/Pipelines/fake_batch_dysco_results/
+Python/Pipelines/test_data_dysco_measures/
+Python/Pipelines/tempCodeRunnerFile.py
+
+# local data
+Python/data/
+fake_fmri_data/
