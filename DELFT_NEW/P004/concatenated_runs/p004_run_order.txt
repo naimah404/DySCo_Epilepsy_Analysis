@@ -1,0 +1,5 @@
+Run order for P004
+========================================
+r003 -> p004_r003_merged_dysco.npy
+c004 -> p004_c004_merged_dysco.npy
+c005 -> p004_c005_merged_dysco.npy

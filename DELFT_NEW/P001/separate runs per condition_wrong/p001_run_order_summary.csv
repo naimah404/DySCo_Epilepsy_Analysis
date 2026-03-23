@@ -1,0 +1,5 @@
+filename,condition,run_type,run_number
+p001_c003_merged_dysco.npy,Cartoon,c,3
+p001_r004_merged_dysco.npy,Rest,r,4
+p001_c005_merged_dysco.npy,Cartoon,c,5
+p001_r006_merged_dysco.npy,Rest,r,6

@@ -1,0 +1,6 @@
+Run order for P002
+========================================
+c003 -> p002_c003_merged_dysco.npy (cartoon)
+r004 -> p002_r004_merged_dysco.npy (rest)
+c005 -> p002_c005_merged_dysco.npy (cartoon)
+r006 -> p002_r006_merged_dysco.npy (rest)
