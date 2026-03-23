@@ -14,16 +14,11 @@ Thumbs.db
 
 # DELFT_NEW large data / outputs
 DELFT_NEW/*_dysco_output/
-DELFT_NEW/*/concatenated_runs/
-DELFT_NEW/*/concatenated_runs_raw_with_stats/
-DELFT_NEW/patient_graphs_zipped/
 
 DELFT_NEW/**/*.nii
 DELFT_NEW/**/*.nii.gz
 DELFT_NEW/**/*.npy
 DELFT_NEW/**/*.gz
-DELFT_NEW/**/*.png
 DELFT_NEW/**/*.jpg
 DELFT_NEW/**/*.jpeg
 DELFT_NEW/**/*.gif
-DELFT_NEW/**/*.csv
