@@ -22,3 +22,8 @@ DELFT_NEW/**/*.gz
 DELFT_NEW/**/*.jpg
 DELFT_NEW/**/*.jpeg
 DELFT_NEW/**/*.gif
+
+# Ignore remaining DELFT_NEW files that are too large for GitHub
+DELFT_NEW/*/*_allruns_4d.gz
+DELFT_NEW/*_dysco_output/
+DELFT_NEW/**/*.npy
