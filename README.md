@@ -151,6 +151,4 @@ python dissertation_code/figures/boxplots/generate_three_condition_boxplots.py
 python dissertation_code/figures/cross_group/generate_cross_group_comparison.py
 ```
 
----
 
-*MSc Dissertation — King's College London*
