@@ -1,6 +1,0 @@
-Run order for P003
-========================================
-c003 -> p003_c003_merged_dysco.npy
-r004 -> p003_r004_merged_dysco.npy
-c006 -> p003_c006_merged_dysco.npy
-r007 -> p003_r007_merged_dysco.npy
